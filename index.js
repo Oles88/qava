@@ -22,4 +22,5 @@ function fib(n) {
   }
   return b;
 }
-alert( fib(6) );
+alert( fib(7) );
+/*n=Number(prompt('Vedit chislo'));*/ 
